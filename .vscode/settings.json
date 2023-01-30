@@ -1,0 +1,14 @@
+{
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true,
+    "source.fixAll.eslint": true
+  },
+  "stylelint.validate": ["css", "scss"],
+  "editor.tabSize": 4,
+  "cSpell.words": [
+    "IKYS"
+  ]
+}
